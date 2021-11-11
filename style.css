@@ -1,0 +1,62 @@
+h3{
+    background-color: rgb(100, 237, 143);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom:15px;
+    border-radius: 15px;
+    margin-top:20px;
+}
+
+#note{
+    background-color:rgb(98, 255, 0);
+    border-radius: 5px;
+    font-size: 23px;
+    color:green;
+}
+
+#title{
+    background-color: cornsilk;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    border-radius: 15px;
+    margin-top:20px;
+    color:green;
+}
+
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.div_speed{
+    float: left;
+    font-size: 20px;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+
+.div_volume{
+    float: right;
+    font-size: 20px;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+body{
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+#play:hover{
+    background-color:rgb(15, 46, 0);
+}
+
+canvas{
+    border: 5px solid rgb(71, 255, 184) ;
+    border-radius:10px;
+    margin-top:110px;
+
+}
